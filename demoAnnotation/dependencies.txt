@@ -1,0 +1,4 @@
+  compile "Tridium:driver-rt:4.0"
+  compile "Tridium:batchJob-rt:4.0"
+  compile "Tridium:batchJob-wb:4.0"
+  compile "Tridium:provisioningNiagara-wb:4.0"
